@@ -1,0 +1,4 @@
+Run Dev Server:
+- Change into the outer mysite/my_tut directory
+-- python manage.py runserver
+-- Access via http://127.0.0.1:8000/ or http://localhost:8000/
